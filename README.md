@@ -1,5 +1,5 @@
 <div align="center"><img alt="MasterHead" src="https://media.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif"></div>
-<h1 align="center">Hello all fellow tech lovers 👋, I'm Robin Vuyyuru</h1>
+<h1 align="center">Hello, fellow tech lovers 👋, I'm Robin Vuyyuru</h1>
 <h3 align="center">A determined and creative full stack developer from UK</h3>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478855veiikc9vrlcccfd5zweecj0iztajmda656fo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
