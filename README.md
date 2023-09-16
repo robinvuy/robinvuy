@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://green-costanza-55.tiiny.site](https://green-costanza-55.tiiny.site)
 
-- ⚡ Fun fact **My profile picture is of me on Mount Snowdon :) and yes I like dark souls, how did you know**
+- ⚡ Fun fact **My profile picture is of me on Mount Snowdon :) and yes I like dark souls, how could you tell**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
