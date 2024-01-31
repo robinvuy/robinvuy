@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478855veiikc9vrlcccfd5zweecj0iztajmda656fo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
-- 🔭 I’m currently working on a **AI T-shirt generator, Zelda 2D minigame & Travelmate Companion App**
+- 🔭 I’m currently working on  **consolidating my Makers Academy Bootcamp with The Odin Project and developing a Social Gamers App**
 
-- 🌱 I’m currently learning **Typescript, Next JS, Tailwind CSS, Three JS, Kaboom JS**
+- 🌱 I’m currently learning **JavaScript, CSS, HTML, React JS, Kotlin and Android App Developemnt**
 
 - 📫 How to reach me **robinvuy@gmail.com**
 
