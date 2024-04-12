@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on  **Developing a Social Gamers App & consolidating my Makers Academy Bootcamp learning with The Odin Project**
 
-- 🌱 I’m currently learning **JavaScript, CSS, HTML, React JS, Kotlin and Android App Developemnt**
+- 🌱 I’m currently learning **JavaScript, CSS, HTML, React JS, Kotlin and Android App Development**
 
 - 📫 How to reach me **robinvuy@gmail.com**
 
