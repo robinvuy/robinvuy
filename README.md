@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478855veiikc9vrlcccfd5zweecj0iztajmda656fo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
-- 🔭 I’m currently working on  **Developing a Social Gamers App & consolidating my Makers Academy Bootcamp learning with The Odin Project & Learning Python and the FReMP stack **
+- 🔭 **I’m currently working on  Developing a Social Gamers App & consolidating my Makers Academy Bootcamp learning with The Odin Project & Learning Python and the FReMP stack**
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, React JS, Python, Kotlin and Android App Development**
 
