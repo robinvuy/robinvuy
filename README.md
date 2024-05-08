@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478855veiikc9vrlcccfd5zweecj0iztajmda656fo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
-- 🔭 I’m currently working on  **Developing a Social Gamers App & consolidating my Makers Academy Bootcamp learning with The Odin Project**
+- 🔭 I’m currently working on  **Developing a Social Gamers App & consolidating my Makers Academy Bootcamp learning with The Odin Project & Learning Python and the FReMP stack **
 
-- 🌱 I’m currently learning **JavaScript, CSS, HTML, React JS, Kotlin and Android App Development**
+- 🌱 I’m currently learning **JavaScript, CSS, HTML, React JS, Python, Kotlin and Android App Development**
 
 - 📫 How to reach me **robinvuy@gmail.com**
 
-- 📄 Know about my experiences [https://harlequin-eloisa-33.tiiny.site/)
+- 📄 Know about my experiences [https://robin-vuyyuru-cv.tiiny.site/)
 
 - ⚡ Fun fact **My profile picture is of me on Mount Snowdon :) and yes I like dark souls, how could you tell**
 
